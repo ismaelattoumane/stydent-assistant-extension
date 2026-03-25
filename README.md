@@ -1,1 +1,0 @@
-# stydent-assistant-extension
